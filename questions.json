@@ -1,0 +1,353 @@
+[
+  {
+    "question": "Vad är värme?",
+    "options": [
+      "Molekyler som rör sig snabbt",
+      "Stillastående luft",
+      "Ljus från solen",
+      "Kyla i rörelse"
+    ],
+    "answer": "Molekyler som rör sig snabbt",
+    "fullAnswer": "Värme är molekyler som rör sig snabbt, alltså molekyler i rörelse."
+  },
+  {
+    "question": "Hur fungerar en vätskebaserad termometer?",
+    "options": [
+      "Vätskan förångas",
+      "Vätskan tar mer plats",
+      "Vätskan blir kallare",
+      "Vätskan lyser"
+    ],
+    "answer": "Vätskan tar mer plats",
+    "fullAnswer": "När det blir varmt runt termometern så höjs också vätskans temperatur och då behöver molekylerna mer plats. När molekylerna tar mer plats går den röda stapeln upp. När det blir kallt rör sig molekylerna långsammare och tar mindre plats och så går stapeln neråt."
+  },
+  {
+    "question": "Beskriv hur molekylerna rör sig i ett ämne som är kallt?",
+    "options": [
+      "Rör sig långsamt",
+      "Rör sig snabbt",
+      "Rör sig i cirklar",
+      "Är helt stilla"
+    ],
+    "answer": "Rör sig långsamt",
+    "fullAnswer": "De rör sig långsamt och lite. I ett ämne som är fruset rör de sig nästan ingenting."
+  },
+  {
+    "question": "Beskriv hur molekylerna rör sig i en isbit när du har den i handen?",
+    "options": [
+      "Rör sig snabbare när isen värms upp",
+      "Rör sig långsammare",
+      "Håller sig stilla",
+      "Försvinner"
+    ],
+    "answer": "Rör sig snabbare när isen värms upp",
+    "fullAnswer": "När isbiten börjar smälta i din hand så börjar molekylerna röra sig snabbare. När isen värms av dina händer börjar molekylerna att röra sig snabbare."
+  },
+  {
+    "question": "På vilka tre olika sätt kan värme förflytta sig?",
+    "options": [
+      "Värmestrålning, värmeledning, strömning",
+      "Konduktion, emission, reflektion",
+      "Radiation, konvektion, ledning",
+      "Diffusion, absorption, ledning"
+    ],
+    "answer": "Värmestrålning, värmeledning, strömning",
+    "fullAnswer": "Värme kan förflytta sig genom värmestrålning, värmeledning och strömning."
+  },
+  {
+    "question": "Vad kallas ämnen och material som leder värme dåligt?",
+    "options": ["Isolatorer", "Värmeledare", "Metaller", "Mineraler"],
+    "answer": "Isolatorer",
+    "fullAnswer": "Ämnen som inte leder värme bra kallas isolatorer, exempelvis luft, plast, trä och gummi."
+  },
+  {
+    "question": "När slutar värme att flytta sig mellan olika föremål?",
+    "options": [
+      "När det kommer en isolator emellan",
+      "När temperaturen stiger",
+      "När föremålen kyls ner",
+      "När föremålen blir heta"
+    ],
+    "answer": "När det kommer en isolator emellan",
+    "fullAnswer": "Värme slutar att flytta sig mellan föremål när det kommer en isolator emellan."
+  },
+  {
+    "question": "Vilka ämnen leder värme bra?",
+    "options": [
+      "Vatten, stål, koppar",
+      "Trä, plast, gummi",
+      "Papper, sten, glas",
+      "Kork, aluminium, betong"
+    ],
+    "answer": "Vatten, stål, koppar",
+    "fullAnswer": "Värmeledare leder värme bra, som till exempel vatten, stål och koppar."
+  },
+  {
+    "question": "Beskriv skillnaden på värmeledning och värmestrålning?",
+    "options": [
+      "Värmeledning sker genom material, värmestrålning genom luft",
+      "Båda fungerar likadant",
+      "Värmestrålning kräver direkt kontakt",
+      "Värmeledning sker bara i vatten"
+    ],
+    "answer": "Värmeledning sker genom material, värmestrålning genom luft",
+    "fullAnswer": "Värmeledare leder värme genom material, som varmvatten i ett element. Värmestrålning strålar värme genom luften som från en brasa eller från solen."
+  },
+  {
+    "question": "Varför tar det längre tid att svalka sig på land än i havet?",
+    "options": [
+      "Vattnet leder bort värmen bättre än luft",
+      "Luft kyler kroppen snabbare",
+      "Land har lägre temperatur",
+      "Vatten är varmare än luft"
+    ],
+    "answer": "Vattnet leder bort värmen bättre än luft",
+    "fullAnswer": "Det beror på att vattnet leder bort värmen från din kropp bättre än luft."
+  },
+  {
+    "question": "Hur många grader varmt är det ungefär på solen?",
+    "options": ["1000°C", "5000°C", "15000°C", "100000°C"],
+    "answer": "5000°C",
+    "fullAnswer": "Solen har en yttemperatur på ungefär 5000 grader Celsius."
+  },
+  {
+    "question": "Vilket av dessa alternativ avger värmestrålning?",
+    "options": ["Isglass", "Ledlampa", "Stjärna"],
+    "answer": "Stjärna",
+    "fullAnswer": "Stjärnor avger värmestrålning eftersom de är stora brinnande gasklot."
+  },
+  {
+    "question": "Förklara hur det går till när en varmluftsballong lyfter?",
+    "options": [
+      "Luften inuti ballongen blir kallare",
+      "Molekylerna i luften värms upp och tar mer plats",
+      "Ballongen fylls med kall luft",
+      "Jorden drar ner ballongen"
+    ],
+    "answer": "Molekylerna i luften värms upp och tar mer plats",
+    "fullAnswer": "När molekylerna i luften inne i ballongen värms upp tar de mer plats. Varm luft strömmar uppåt och den kraften, om den blir stor nog, lyfter sedan hela ballongen."
+  },
+
+  {
+    "question": "De flesta ämnen kan finnas i tre olika faser. Vad kallas dessa tre faser?",
+    "options": [
+      "Fast, flytande och gas",
+      "Plasma, flytande och is",
+      "Solid, flytande och rök",
+      "Gummi, vatten och luft"
+    ],
+    "answer": "Fast, flytande och gas",
+    "fullAnswer": "De tre faserna är fast, flytande och gas."
+  },
+  {
+    "question": "Hur är vatten i de tre olika faserna?",
+    "options": [
+      "Is, vatten, vattenånga",
+      "Snö, regn, dimma",
+      "Ånga, fukt, vätska",
+      "Bubblor, is, moln"
+    ],
+    "answer": "Is, vatten, vattenånga",
+    "fullAnswer": "Fryst = is, Flytande = som i ett vattenglas, Gas = som vattenånga när vatten kokar."
+  },
+  {
+    "question": "Vad heter det när vatten ändrar fas från fast till flytande?",
+    "options": ["Smälter", "Förångas", "Kondenserar", "Fryser"],
+    "answer": "Smälter",
+    "fullAnswer": "När vatten ändrar fas från fast till flytande form kallas det att smälta."
+  },
+  {
+    "question": "Vad heter det när vatten ändrar fas från flytande till gasform?",
+    "options": ["Kokar eller förångas", "Smälter", "Stelnar", "Kristalliseras"],
+    "answer": "Kokar eller förångas",
+    "fullAnswer": "När vatten ändrar fas från flytande till gasform kallas det att koka eller förångas."
+  },
+  {
+    "question": "Beskriv hur vattenmolekyler beter sig i vattnets tre faser.",
+    "options": [
+      "Is: Molekyler sitter fast, Vatten: Molekyler rör sig lite, Ånga: Molekyler är fria",
+      "Is: Molekyler flyter fritt, Vatten: Molekyler sitter fast, Ånga: Molekyler sjunker",
+      "Is: Molekyler är snabba, Vatten: Molekyler sitter fast, Ånga: Molekyler rör sig sakta",
+      "Is: Molekyler rör sig fort, Vatten: Molekyler försvinner, Ånga: Molekyler blir tyngre"
+    ],
+    "answer": "Is: Molekyler sitter fast, Vatten: Molekyler rör sig lite, Ånga: Molekyler är fria",
+    "fullAnswer": "Fast form (is): Molekylerna sitter fast i långa kedjor. Flytande form (vanligt vatten): Molekylerna rör sig lite huller om buller. Gasform (vattenånga): Molekylerna är fria från varandra och åker fritt."
+  },
+  {
+    "question": "Hur länge tar det för jorden att snurra runt sin egen axel, och vad kallas det?",
+    "options": [
+      "24 timmar, ett dygn",
+      "12 timmar, en halvdag",
+      "48 timmar, en vecka",
+      "72 timmar, en månad"
+    ],
+    "answer": "24 timmar, ett dygn",
+    "fullAnswer": "Det tar 24 timmar för jorden att snurra runt sin egen axel, vilket kallas ett dygn."
+  },
+  {
+    "question": "Hur blir natt och dag på jorden?",
+    "options": [
+      "Jorden snurrar och olika delar får solljus",
+      "Solen går upp och ner själv",
+      "Månen täcker solen varje natt",
+      "Jorden ändrar lutning varje dag"
+    ],
+    "answer": "Jorden snurrar och olika delar får solljus",
+    "fullAnswer": "På den del av jorden som roterar bort från solens ljus blir det kväll och natt. På den del av jorden som roterar in i solens ljus blir det morgon och dag. Det ser ut som att solen går upp och ner, men det är jorden som snurrar runt sin egen axel."
+  },
+  {
+    "question": "Hur många, och varför, har vi tidszoner på jorden?",
+    "options": [
+      "24 tidszoner för att hålla tiden logisk",
+      "12 tidszoner för varje månad",
+      "6 tidszoner för varje kontinent",
+      "Ingen tidszon, alla har samma tid"
+    ],
+    "answer": "24 tidszoner för att hålla tiden logisk",
+    "fullAnswer": "Vi har 24 tidszoner. Vi har tidszoner för att alla runt hela jorden ska kunna ha en logisk ordning på tiden. En vanlig tid att gå upp på morgonen är ca 07:00, skola och arbete är slut ca 16:00 och man lägger sig för att sova ca 22:00."
+  },
+  {
+    "question": "Om du åker utomlands kan du behöva ställa om klockan. Åt vilket håll och varför?",
+    "options": [
+      "Åker jag västerut måste jag ställa tillbaka klockan",
+      "Åker jag österut måste jag ställa tillbaka klockan",
+      "Klockan är alltid densamma överallt",
+      "Man ställer fram klockan oavsett riktning"
+    ],
+    "answer": "Åker jag västerut måste jag ställa tillbaka klockan",
+    "fullAnswer": "Om jag åker västerut måste jag ställa tillbaka klockan. Det är för att jorden snurrar åt öster. De som bor österut från oss har kommit längre på sin dag och de som bor västerut har inte kommit lika långt som oss på sin dag. När klockan är 20:00 i Sverige är den 19:00 på Island men 21:00 i Finland."
+  },
+  {
+    "question": "Hur många dagar är det i ett år och i ett skottår?",
+    "options": [
+      "Ett år: 365, Ett skottår: 366",
+      "Ett år: 360, Ett skottår: 370",
+      "Ett år: 350, Ett skottår: 355",
+      "Ett år: 400, Ett skottår: 410"
+    ],
+    "answer": "Ett år: 365, Ett skottår: 366",
+    "fullAnswer": "Ett vanligt år har 365 dagar och ett skottår har 366 dagar."
+  },
+  {
+    "question": "Varför och hur ofta har vi skottår, och vilken dag är skottdagen?",
+    "options": [
+      "Vart fjärde år, den 29 februari",
+      "Varje år, den 31 februari",
+      "Vart tredje år, den 1 januari",
+      "Vart tionde år, den 30 december"
+    ],
+    "answer": "Vart fjärde år, den 29 februari",
+    "fullAnswer": "Vi har skottår för att ett varv runt solen tar ganska precis 365 dagar och 6 timmar. Vart fjärde år lägger vi till en dag för att inte almanackan ska förskjutas gentemot våra årstider. Skottdagen är den 29 februari och nästa skottår är år 2028."
+  },
+  {
+    "question": "Varför har vi årstider?",
+    "options": [
+      "Jordens poler lutar i förhållande till solen",
+      "Jorden snurrar snabbare på sommaren",
+      "Solen ändrar temperatur under året",
+      "Havet påverkar temperaturerna"
+    ],
+    "answer": "Jordens poler lutar i förhållande till solen",
+    "fullAnswer": "Vi har årstider för att jordens poler lutar gentemot hur solen står. Det betyder att vi får mer sol under en del av året och mindre sol under andra delen av året. Mer sol = vår och sommar, mindre sol = höst och vinter."
+  },
+  {
+    "question": "Vad är en månförmörkelse och vad händer när det inträffar?",
+    "options": [
+      "Jorden skuggar månen",
+      "Månen försvinner bakom solen",
+      "Solen täcker månen",
+      "Månen roterar snabbare än jorden"
+    ],
+    "answer": "Jorden skuggar månen",
+    "fullAnswer": "En månförmörkelse inträffar när jorden skuggar månen, alltså jorden hamnar emellan solen och månen. Då blir månen skuggad och är svår att se. Månen kan även se lite rödaktig ut. Därför kallas ibland månförmörkelse rödmåne, eller blodmåne."
+  },
+  {
+    "question": "Hur kan månen lysa?",
+    "options": [
+      "Den reflekterar solens ljus",
+      "Den producerar eget ljus",
+      "Den glöder av inre värme",
+      "Den tänds på natten"
+    ],
+    "answer": "Den reflekterar solens ljus",
+    "fullAnswer": "Månen lyser inte, den bara reflekterar solens ljus så det ser ut som att den lyser."
+  },
+  {
+    "question": "Vilka är månens fyra faser?",
+    "options": [
+      "Nymåne, halvmåne, månskära, fullmåne",
+      "Morgonmåne, kvällsmåne, helmåne, mörkmåne",
+      "Solmåne, regnmåne, ljusmåne, nattmåne",
+      "Blåmåne, röd måne, gulmåne, vitmåne"
+    ],
+    "answer": "Nymåne, halvmåne, månskära, fullmåne",
+    "fullAnswer": "Månens fyra faser är nymåne, halvmåne, månskära och fullmåne."
+  },
+  {
+    "question": "Hur lång tid tar det för månen att snurra ett varv runt jorden?",
+    "options": ["Ca 30 dagar", "10 dagar", "50 dagar", "365 dagar"],
+    "answer": "Ca 30 dagar",
+    "fullAnswer": "Månen tar ganska precis en månad, eller ca 30 dagar, på sig att snurra ett varv runt jorden."
+  },
+  {
+    "question": "Förklara fenomenet solförmörkelse.",
+    "options": [
+      "Månen hamnar mellan solen och jorden",
+      "Jorden täcker solen helt",
+      "Solen slocknar tillfälligt",
+      "Månen lyser starkare än solen"
+    ],
+    "answer": "Månen hamnar mellan solen och jorden",
+    "fullAnswer": "En solförmörkelse inträffar när månen hamnar emellan solen och jorden. Månen täcker då solen och gör att det blir helt mörkt mitt på dagen under ett par minuters tid på en liten del av jorden."
+  },
+  {
+    "question": "Vilka olika typer av satelliter finns det?",
+    "options": [
+      "Konstgjorda och naturliga satelliter",
+      "Statiska och rörliga satelliter",
+      "Militära och civila satelliter",
+      "Infraröda och ultravioletta satelliter"
+    ],
+    "answer": "Konstgjorda och naturliga satelliter",
+    "fullAnswer": "Det finns konstgjorda satelliter (så vi kan ringa med mobiltelefoner och ha koll på väder) och så finns det naturliga satelliter. Månen är en naturlig satellit."
+  },
+  {
+    "question": "När brukar man säga att rymden börjar?",
+    "options": [
+      "Ca 100 km uppåt",
+      "10 km uppåt",
+      "500 km uppåt",
+      "1 000 km uppåt"
+    ],
+    "answer": "Ca 100 km uppåt",
+    "fullAnswer": "Man brukar säga att rymden börjar ca tio mil, eller 100 km, uppåt."
+  },
+  {
+    "question": "Vem var den första människan i rymden?",
+    "options": ["Jurij Gagarin", "Neil Armstrong", "Buzz Aldrin", "Sally Ride"],
+    "answer": "Jurij Gagarin",
+    "fullAnswer": "Den första människan i rymden var Jurij Gagarin 1961."
+  },
+  {
+    "question": "Varför kan vi inte studera hela månen från jorden?",
+    "options": [
+      "Månens rotation påverkas av jordens dragningskraft",
+      "Månen rör sig för snabbt",
+      "Solen blockerar alltid halva månen",
+      "Månen är för liten för att se helt från jorden"
+    ],
+    "answer": "Månens rotation påverkas av jordens dragningskraft",
+    "fullAnswer": "Månens rotation påverkas av jordens dragningskraft vilket gör att månen hela tiden visar samma sida mot jorden. Vi ser alltså alltid samma sida av månen."
+  },
+  {
+    "question": "Vad finns det för problem för människan att resa till Mars eller andra längre rymdresor?",
+    "options": [
+      "Tid i tyngdlöshet, landning, bostadsbygge, hemresa, mat/vatten",
+      "Farliga utomjordingar",
+      "Mars är för nära solen",
+      "Rymdskepp kan inte landa på Mars"
+    ],
+    "answer": "Tid i tyngdlöshet, landning, bostadsbygge, hemresa, mat/vatten",
+    "fullAnswer": "Det skulle ta lång tid att resa fram och tillbaka till Mars, ungefär tre år. Tid i tyngdlöshet påverkar människan negativt. Väl där behöver man bygga bostäder för att kunna bo där en lång tid. Att landa är en jätteutmaning då farkosten kommer i väldigt hög fart. Att sedan ta sig därifrån skulle bli en annan svårighet. För att inte tala om problemet med mat och vatten."
+  }
+]
